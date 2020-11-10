@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecastSerilog", "WeatherForecastSerilog\WeatherForecastSerilog.csproj", "{D897E69A-C3E8-48CC-9342-A713062AA69E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerilogLibrary", "SerilogLibrary\SerilogLibrary.csproj", "{7AF1EF91-A458-4C24-BEB6-A63EF7977473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherNetFramework", "WeatherNetFramework\WeatherNetFramework.csproj", "{B9548476-9B47-4D5E-A527-09C340BC751A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerilogTestConsole", "SerilogTestConsole\SerilogTestConsole.csproj", "{39496E61-2A33-4880-9090-7685FF347264}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SLogger.Data", "SLogger.Data\SLogger.Data.csproj", "{331BB4A3-4B6E-4F4C-B052-B1FD7B798DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogLibrary.NetCore", "SerilogLibrary.NetCore\SerilogLibrary.NetCore.csproj", "{2103CD10-8B47-4F79-868B-BB8F52EAF439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D897E69A-C3E8-48CC-9342-A713062AA69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D897E69A-C3E8-48CC-9342-A713062AA69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D897E69A-C3E8-48CC-9342-A713062AA69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D897E69A-C3E8-48CC-9342-A713062AA69E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF1EF91-A458-4C24-BEB6-A63EF7977473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF1EF91-A458-4C24-BEB6-A63EF7977473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF1EF91-A458-4C24-BEB6-A63EF7977473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF1EF91-A458-4C24-BEB6-A63EF7977473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9548476-9B47-4D5E-A527-09C340BC751A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9548476-9B47-4D5E-A527-09C340BC751A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9548476-9B47-4D5E-A527-09C340BC751A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9548476-9B47-4D5E-A527-09C340BC751A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39496E61-2A33-4880-9090-7685FF347264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39496E61-2A33-4880-9090-7685FF347264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39496E61-2A33-4880-9090-7685FF347264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39496E61-2A33-4880-9090-7685FF347264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331BB4A3-4B6E-4F4C-B052-B1FD7B798DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331BB4A3-4B6E-4F4C-B052-B1FD7B798DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331BB4A3-4B6E-4F4C-B052-B1FD7B798DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331BB4A3-4B6E-4F4C-B052-B1FD7B798DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2103CD10-8B47-4F79-868B-BB8F52EAF439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2103CD10-8B47-4F79-868B-BB8F52EAF439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2103CD10-8B47-4F79-868B-BB8F52EAF439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2103CD10-8B47-4F79-868B-BB8F52EAF439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F572D9A4-A5E7-41DC-8147-65634CA6BEB3}
+	EndGlobalSection
+EndGlobal

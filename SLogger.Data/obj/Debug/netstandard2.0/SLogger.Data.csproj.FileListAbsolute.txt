@@ -1,0 +1,9 @@
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SLogger.Data\bin\Debug\netstandard2.0\SLogger.Data.deps.json
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SLogger.Data\bin\Debug\netstandard2.0\SLogger.Data.dll
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SLogger.Data\obj\Debug\netstandard2.0\SLogger.Data.csprojAssemblyReference.cache
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SLogger.Data\obj\Debug\netstandard2.0\SLogger.Data.AssemblyInfoInputs.cache
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SLogger.Data\obj\Debug\netstandard2.0\SLogger.Data.AssemblyInfo.cs
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SLogger.Data\bin\Debug\netstandard2.0\SLogger.Data.pdb
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SLogger.Data\obj\Debug\netstandard2.0\SLogger.Data.csproj.CoreCompileInputs.cache
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SLogger.Data\obj\Debug\netstandard2.0\SLogger.Data.dll
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SLogger.Data\obj\Debug\netstandard2.0\SLogger.Data.pdb

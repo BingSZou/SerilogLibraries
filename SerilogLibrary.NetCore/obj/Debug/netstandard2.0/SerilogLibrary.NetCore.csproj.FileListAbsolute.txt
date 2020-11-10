@@ -1,0 +1,5 @@
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogLibrary.NetCore\bin\Debug\netstandard2.0\SerilogLibrary.NetCore.deps.json
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogLibrary.NetCore\bin\Debug\netstandard2.0\SerilogLibrary.NetCore.dll
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogLibrary.NetCore\obj\Debug\netstandard2.0\SerilogLibrary.NetCore.csprojAssemblyReference.cache
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogLibrary.NetCore\obj\Debug\netstandard2.0\SerilogLibrary.NetCore.AssemblyInfoInputs.cache
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogLibrary.NetCore\obj\Debug\netstandard2.0\SerilogLibrary.NetCore.AssemblyInfo.cs

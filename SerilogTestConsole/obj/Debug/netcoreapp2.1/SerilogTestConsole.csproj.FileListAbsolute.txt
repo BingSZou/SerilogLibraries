@@ -1,0 +1,15 @@
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\obj\Debug\netcoreapp2.1\SerilogTestConsole.csprojAssemblyReference.cache
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\obj\Debug\netcoreapp2.1\SerilogTestConsole.AssemblyInfoInputs.cache
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\obj\Debug\netcoreapp2.1\SerilogTestConsole.AssemblyInfo.cs
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\bin\Debug\netcoreapp2.1\SerilogTestConsole.deps.json
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\bin\Debug\netcoreapp2.1\SerilogTestConsole.runtimeconfig.json
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\bin\Debug\netcoreapp2.1\SerilogTestConsole.runtimeconfig.dev.json
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\bin\Debug\netcoreapp2.1\SerilogTestConsole.dll
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\bin\Debug\netcoreapp2.1\SerilogTestConsole.pdb
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\bin\Debug\netcoreapp2.1\SerilogLibrary.dll
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\bin\Debug\netcoreapp2.1\SerilogLibrary.pdb
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\obj\Debug\netcoreapp2.1\SerilogTestConsole.csproj.CopyComplete
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\obj\Debug\netcoreapp2.1\SerilogTestConsole.dll
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\obj\Debug\netcoreapp2.1\SerilogTestConsole.pdb
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\obj\Debug\netcoreapp2.1\SerilogTestConsole.genruntimeconfig.cache
+C:\Users\bzou\source\repos\WeatherForecastSerilog\SerilogTestConsole\obj\Debug\netcoreapp2.1\SerilogTestConsole.csproj.CoreCompileInputs.cache
