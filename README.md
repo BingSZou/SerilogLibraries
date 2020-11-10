@@ -1,4 +1,4 @@
-# SerilogLIibraries
+# SerilogLibraries
 
 This creates re-usable Serilog libraries for both ASP.Core and Asp.Net
 
